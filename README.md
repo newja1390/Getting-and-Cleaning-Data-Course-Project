@@ -12,6 +12,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. Put the file 'run_analysis.R' into 'Course Project' folder
 3. In RStudio set your working directory to 'Course Project' folder
 4. Open 'run_analysis.R' script and run it.
-5.  tidy data will be saved in "tidyData.txt" file in your working directory('Course Project' folder).
+5. Tidy data will be saved in "tidyData.txt" file in your working directory('Course Project' folder).
 
 * Please note you need to install "data.table" and "reshape2" packages in RStudio.
