@@ -45,7 +45,8 @@ After reading training and test data:
 * 'train/subject_test.txt'
 
 There are 5 steps to get a tidy data of extracted features:
-1. Merging the training and the test sets to create one data set
+
+1- Merging the training and the test sets to create one data set
 2. Extracting only the measurements on the mean and standard deviation for each measurement.
 3. Using descriptive activity names to name the activities in the data set.
 4. Appropriately labeling the data set with descriptive activity names.
