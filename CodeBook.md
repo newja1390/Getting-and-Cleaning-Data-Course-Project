@@ -36,7 +36,7 @@ The following files are available for the train and test data. Their description
 
 #Transformation details
 
-After قeading training and test data:
+After reading training and test data:
 * 'train/X_train.txt': Training set.
 * 'train/y_train.txt': Training labels.
 * 'train/subject_train.txt' 
