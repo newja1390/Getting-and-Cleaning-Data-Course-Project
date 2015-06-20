@@ -6,7 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-## The goal of this project is to prepare tidy data that can be used for later analysis.
+### The goal of this project is to prepare tidy data that can be used for later analysis.
 
 1. Download the data for project and unzip to a folder say 'Course Project'
 2. Put the file 'run_analysis.R' into 'Course Project' folder
