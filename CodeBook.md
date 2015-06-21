@@ -51,4 +51,5 @@ There are 5 steps to get a tidy data of extracted features:
 3. Using descriptive activity names to name the activities in the data set
 4. Appropriately labeling the data set with descriptive activity names
 5. From the data set in step 4, we create a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 * The Tidy data will be saved in "tidyData.txt" file in working directory
